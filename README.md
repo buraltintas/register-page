@@ -1,6 +1,4 @@
-# Week 5 Assignment
-
-Register Page Homework
+Register Page 
 
 - Form control is handled by Formik and validation is handled by Yup.
 - Form has 2 nonrequired fields and 4 required fields and a required checkbox.
